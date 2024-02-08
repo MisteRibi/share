@@ -1,1 +1,1 @@
-Just a place to share stuffs whit Friends and Families.
+Just a place to share stuffs with Friends and Families.
