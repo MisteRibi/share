@@ -42,3 +42,5 @@
 ## EA1: Expérience dans l'organisation de formations?
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.
+
+**NON**
