@@ -30,10 +30,13 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
 
+Lors de mon ancien emploi chez Réno-Dépôt/Rona/Lowes de 2020 à juin 2022, j'occupais le poste d'associé marchandisage magasin dans lequel je répondais aux questions des clients et je donnais des conseils aux entrepreneurs et aux particuliers pour, entre autre, l'achats de matériaux de constructions pour leurs travails ou projets.  
+Cela m’était facile de les conseillers ayant eu une formation et de l’expérience en ébénisterie.
 ## EA 6 : Avez-vous de l'expérience dans la production de rapports d'analyse et de visualisation de données à l'aide de programmes de gestion de données tels que Access, Excel, Power BI, etc?
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
 
+**NON**
 ## EA4: Avez-vous de l'expérience dans les opérations de documents papier et électroniques telles que le classement, le tri, la recherche d’informations et la classification?
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
