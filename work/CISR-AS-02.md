@@ -72,6 +72,12 @@ Je vérifie l’ensemble des documents, afin de m’assurer que le tout soit com
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
 
+Depuis février 2023, j’occupe le poste d’agent de gestion de cas (PM-01) au sein de la **Commission de l'immigration et du statut de réfugié du Canada**.  
+Mon travaille consiste à traiter les dossiers des demandeurs d’asile.  
+Pour ce faire, je dois prendre le temps de bien analyser les dossiers.  
+Je m’assure que les documents soumis par les demandeurs ou leurs conseils sont conformes aux procédures.  
+Je vérifie l’ensemble des documents, afin de m’assurer que le tout soit complet et bien remplis, qu'il n'y a pas de bris de confidentialités, que les noms desdits demandeurs et leurs adresses sont exact.  
+À défaut, je dois suivre la procédure et envoyer les correspondances appropriées aux différentes parties impliquées au dossier, pour leur demander de nous soumettre l’information manquante en respectant un certain délai ou faire des recherches tel que rechercher l'adresse des demandeurs dans une base de données.
 ### 9. EA3: Avez-vous de l'expérience de la collecte, de la manipulation et de la mise à jour de données au moyen d’un programme de gestion des données comme Access, Excel?
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
