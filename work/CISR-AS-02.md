@@ -45,6 +45,18 @@ Cela m’était facile de les conseillers ayant eu une formation et de l’expé
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
 
+De juin 2022 à février 2023, j'occupais le poste d'agent de soutien au greffre (CR-04) au sein de la **Commission de l'immigration et du statut de réfugié du Canada**.
+Mon travail consistais à préparer les documents pour les audiences.
+Préparer, imprimer et envoyer les Avis de convocation (ADC) aux parties pour lesdites audience.
+Je me connecter 15 min avant certaines de cesdites pour m'assurer que toutes les parties soient présentes et que tout sois prêt pour l'arrivé du Comissaire pour débutrer l'audience.
+À défaut de quoi, j'essayerais de résoudre les divers problèmes ou j'en aviserais le Comissaire.
+
+Depuis février 2023, j’occupe le poste d’agent de gestion de cas (PM-01) au sein de la **Commission de l'immigration et du statut de réfugié du Canada**.  
+Mon travaille consiste à traiter les dossiers des demandeurs d’asile.  
+Pour ce faire, je dois prendre le temps de bien analyser les dossiers.  
+Je m’assure que les documents soumis par les demandeurs ou leurs conseils sont conformes aux procédures.  
+Je vérifie l’ensemble des documents, afin de m’assurer que le tout soit complet et bien remplis.  
+À défaut, je dois suivre la procédure et envoyer les correspondances appropriées aux différentes parties impliquées au dossier, pour leur demander de nous soumettre l’information manquante en respectant un certain délai.
 ## EA2: Avez-vous de l'expérience de la recherche, de la collecte, de l'analyse et de la mise à jour d'informations et/ou de données?
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
