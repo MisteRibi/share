@@ -15,6 +15,8 @@
 >
 >Si vous répondez Oui: Veuillez spécifier ou et quand vous avez acquis ce diplôme OU si vous avez les alternatives approuvées par l’employeur.  
 
+J’ai obtenu en 2010 mon Diplôme d’Étude Secondaire de l’école Chomedey de Maisonneuve.  
+De plus, j'ai récemment suivi un cours de Web et Base de données au Collège Georges-Vanier auquel j'ai obtenu mon Attestation d'Étude Collégiale en Septembre 2023.
 ## EE1: Avez-vous de l'expérience dans un environnement de travail axé sur le service à la clientèle?
 >[!NOTES]
 >Si vous répondez Oui: Veuillez fournir des exemples spécifiques qui démontrent que vous répondez aux critères de l'expérience, incluant le titre du poste, la date d'entrée en fonction (mois et année) et la date de fin d'emploi (mois et année) ainsi que les fonctions spécifiques exercées.  
