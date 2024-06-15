@@ -6,6 +6,7 @@ const dnaToRna = {G: "C",C:"G",T:"A",A:"U"};
 const toRna = (dna) => dna.split("").map(d => dnaToRna[d]).join("");
   document.getElementById("toRNA").addEventListener("click", () => {
     let DNA = document.getElementById("dna").value;
+    DNA = DNA.toUpperCase();
     document.getElementById("rna").innerText = toRna(DNA);
   });
 </script>
