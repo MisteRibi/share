@@ -1,6 +1,6 @@
 # DNA to RNA
 <label for="dna">DNA to convert to RNA</label><input type="text" id="dna" size="10"><button id="toRNA">to RNA</button>
-<p id="rna"></p>
+<p>Result: <span id="rna"></span></p>
 <script>
 const dnaToRna = {G: "C",C:"G",T:"A",A:"U"};
 const toRna = (dna) => dna.split("").map(d => dnaToRna[d]).join("");
