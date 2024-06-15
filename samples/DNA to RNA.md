@@ -1,5 +1,5 @@
 # DNA to RNA
-<input type="text" id="dna"><button id="toRNA">
+<input type="text" id="dna"><button id="toRNA">to RNA</button>
 <p id="rna"></p>
 <script>document.getElementById("toRNA").addEventListener("click", () => {
     let DNA = document.getElementById("dna").value;
