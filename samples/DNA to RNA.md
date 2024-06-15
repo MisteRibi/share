@@ -1,6 +1,6 @@
 # DNA to RNA
 <input type="text" id="dna"><button id="toRNA">
-<p id="rna"></p>
+<p id="rna">lol</p>
 <script>document.getElementById("toRNA").addEventListener("click", () => {
     let DNA = document.getElementById("dna").value;
     
