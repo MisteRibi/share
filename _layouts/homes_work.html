@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      {{ content }}
+    <script>
+      const showParentheses = () => {
+        let parentheses = document.querySelectorAll('[data-jl-type="person"]');
+        parentheses.forEach(par => par.style.display = "block");
+      };
+      const checkPersons = () => {
+        let showAll = true;
+        let params = new URLSearchParams(window.location.search);
+        if (params.size != 0) {
+          let persons = params.getAll("person");
+          if (persons.length != 0) {
+            persons.forEach(area => {
+              let spans = document.querySelectorAll(`[data-jl-person~="${area.toLowerCase()}"]`);
+              if (spans.length != 0) {
+                spans.forEach(span => span.style.display = "block");
+                showAll = false;
+              };
+            });
+            if (persons.length > 1) {
+              showParentheses();
+            };
+          };
+        };
+    
+        if (showAll) {
+          let spans = document.querySelectorAll('[data-jl-areas]');
+          spans.forEach(el => el.style.display = "block");
+          showParentheses();
+        };
+      };
+      checkAreas();
+    </script>
+    </div>
+  </body>
+</html>
