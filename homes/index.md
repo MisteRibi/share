@@ -45,7 +45,7 @@ layout: homes_work
 </span>
 </span>
 
-## 683-685 Rue de Sillery, Laval (Chinese)
+## 683-685 Rue de Sillery, Laval (Chomedey)
 <span style="display: none;" data-jl-person="jeremy jay" markdown="1"> 
 60 minutes
 <span style="display: none;" data-jl-type="person">
