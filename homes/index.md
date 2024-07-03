@@ -11,10 +11,7 @@ layout: homes_work
 </span>
 </span>
 <span style="display: none;" data-jl-person="joanna jo" markdown="1">
-  40 minutes
-<span style="display: none;" data-jl-type="person">
-  (Joanna)
-</span>
+  40 minutes<span style="display: none;" data-jl-type="person"> (Joanna)</span>
 </span>
 
 ## 904-906A Rue Emerson, Laval (Chomedey)
