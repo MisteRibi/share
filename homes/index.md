@@ -3,6 +3,8 @@ lang: fr
 layout: homes_work
 ---
 # temps maisons - travail
+[Montrer Jérémy seulement](?person=jay)
+[Montrer Joanna seulement](?person=jo)
 ## 88-90 4e Rue, Laval (Laval-des-Rapides)
 <span style="display: none;" data-jl-person="jeremy jay" markdown="1"> 
 40 minutes
