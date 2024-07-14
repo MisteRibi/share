@@ -15,7 +15,7 @@
 
 - [x] 1. Under a bench next to the lake. (Carnival grounds)  
 - [x] 2. On a tabletop at the back of the house. (Garden)  
-- [x] 3. Among the back passenger seats at interior of a car. (Garage)  
+- [ ] 3. Among the back passenger seats at interior of a car. (Garage)  
 - [ ] 4. On the opposite tabletop near a horse statuette after flying across. (Toy and study room)  
 - [ ] 5. Inside a hidden compartment at the side wall of the windmill outside. (Forest area)  
 - [ ] 6. Next to the forklift. (Factory and restaurant area)  
