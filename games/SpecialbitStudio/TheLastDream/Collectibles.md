@@ -1,7 +1,7 @@
 ## Bonus photo locations
 
 - [x] 1. On the floor in the gazebo. (Prologue)  
-- [ ] 2. On the window of the ticket office attached with paperclip. (Carnival grounds)  
+- [x] 2. On the window of the ticket office attached with paperclip. (Carnival grounds)  
 - [ ] 3. On a grass patch at the back of the house. (Garden)  
 - [ ] 4. Inside the safe in garage 665. (Garage)  
 - [ ] 5. Inside the desk drawer below the first tabletop. (Toy and study room)  
