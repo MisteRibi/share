@@ -13,7 +13,7 @@
 
 ## Cat toy locations
 
-- [ ] 1. Under a bench next to the lake. (Carnival grounds)  
+- [x] 1. Under a bench next to the lake. (Carnival grounds)  
 - [ ] 2. On a tabletop at the back of the house. (Garden)  
 - [ ] 3. Among the back passenger seats at interior of a car. (Garage)  
 - [ ] 4. On the opposite tabletop near a horse statuette after flying across. (Toy and study room)  
