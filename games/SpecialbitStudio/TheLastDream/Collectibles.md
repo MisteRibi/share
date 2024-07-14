@@ -2,7 +2,7 @@
 
 - [x] 1. On the floor in the gazebo. (Prologue)  
 - [x] 2. On the window of the ticket office attached with paperclip. (Carnival grounds)  
-- [ ] 3. On a grass patch at the back of the house. (Garden)  
+- [x] 3. On a grass patch at the back of the house. (Garden)  
 - [ ] 4. Inside the safe in garage 665. (Garage)  
 - [ ] 5. Inside the desk drawer below the first tabletop. (Toy and study room)  
 - [ ] 6. Among the contents of a wagon. (Forest area)  
