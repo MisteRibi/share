@@ -5,7 +5,7 @@
 - [x] 3. On a grass patch at the back of the house. (Garden)  
 - [x] 4. Inside the safe in garage 665. (Garage)  
 - [x] 5. Inside the desk drawer below the first tabletop. (Toy and study room)  
-- [ ] 6. Among the contents of a wagon. (Forest area)  
+- [x] 6. Among the contents of a wagon. (Forest area)  
 - [ ] 7. On the ground partially underneath the forklift. (Factory and restaurant area)  
 - [ ] 8. On the bed of the lake next to the oyster. (Underwater area)  
 - [ ] 9. On a shelf at the upper level of a house. (Street area)  
