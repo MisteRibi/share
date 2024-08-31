@@ -21,6 +21,24 @@ En plus de traiter mes tâches régulières, je reçois tous les jours tout type
 Pour ce faire, je dois soumettre une demande au commissaire coordonnateur et attendre sa réponse.
 Entre temps, je continue avec mes tâches régulières et dès que je reçois la réponse du commissaire coordonnateur, je traite le dossier en urgence et je dois envoyer la décision appropriée aux parties selon les instructions du commissaire coordonnateur.
 ### 3 : Avez-vous l'expérience de l’utilisation du système de gestion de cas NOVA ?
-Oui: 
+Depuis février 2023, j’occupe le poste d’agent de gestion de cas (PM-01) au sein de la **Commission de l’immigration et du statut de réfugié du Canada**.
+Utilisant le système de gestion de cas NOVA tous les jours, je peux affirmer que j'ai acquis de l'expérience avec.
+Dès que je rentre dans un dossier d'un demandeur je dois regarder si c'est un dossier provenant de l'intérieur ou d'un point d'entrée (tel que l'aéroport) et calculer la date d'échéance initiale pour la soumission du formulaire du Fondement de la demande d'asile (FDA) avec la date de déféré du demandeur (date de déféré plus 15 jours pour un dossier intérieur ou date de déféré plus 45 jours).
+
+Ensuite je dois vérifier si on a reçu des documents ou des requêtes et je dois les traiter.
+Si ce sont les notes de point d'entrée (NPE), je vérifier qu'elles sont complètes (Avis de déféré ou équivalent, Sommaire de la demande ou équivalent et passeport (si ce dernier a était retenu par nos partenaires, l'Agence des services frontaliers du Canada ou Immigration, Réfugiés et Citoyenneté Canada)) en y inscrivant une remarque à la fois dans la tâche reçue et dans la correspondance recue.
+Si elles sont complètes, je met une note dans la section MÉMO de NOVA et j'inscris la date auquel les NPE sont complets dans la section Dates importantes de NOVA, sinon je dois en faire la demande en générant une lettre avec le Générateur de document NOVA (GDN).
+
+Si c'est le FDA, je vérifier s'il est complet, en y inscrivant une remarque à la fois dans la tâche reçue et dans la correspondance recue.
+S'il est complet, je met une note dans la section MÉMO de NOVA et j'inscris la date auquel les NPE sont complets dans la section Dates importantes de NOVA, sinon je génère une lettre pour demander les questions manquantes avec le Narratif, si ce dernier est mentionné et manquant.
+
+Si c'est une demande ou une requête, je dois les traiter selon les procédures. Soit que je peux la traiter moi-même et j'envoie une lettre de réponse.
+Sois je doit l'envoyer à un commissaire coordonnateur (CC) qui prendra la décision.
+Pour ce faire je vais devoir crée une entrée de suivi des demandes dans NOVA et générer un document 18.01 avec le GDN pour le remplir d'information à la fois sur l'état du dossier que sur la demande ou requête.
+Ensuite, lorsque de la réception de la response, je retourne dans le suivi des demandes pour rajouter la décision et ensuite je génère la lettre de réponse avec la décision pour envoyer le tout aux parties (demandeur et conseil si applicable).
+Si c'était une requête de changement lieu que le CC a acceptée, je vais devoir aussi faire le transfert dans NOVA en utilisant le bouton dédié afin d'avoir le nouveau numéro identifiant le dossier pour l'écrire dans la lettre à envoyer aux parties (demandeur et conseil si applicable). De plus, si on a dossier physique, je dois faire la demande de transfert pour ce dernier.
+
+Dans le cas où il n'y a plus de requêtes ou demandes et que les NPE et le FDA complet, je contre vérifie la section des dates importantes dans NOVA, je met un MÉMO et je sors le dossier du groupe UCTC pour qu'il puisse être mis au rôle pour une audience régulière. Sinon, et que la date d'échéance est échu, je dois le transférer à l'équipe qui s'occupe des Audiences spéciale de désistement.
+
 ### 4 : Avez-vous l'expérience de l’utilisation de l’Outil de gestion de la mise au rôle (OGMR) ?
 **Non**
