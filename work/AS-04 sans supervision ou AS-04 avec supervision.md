@@ -13,7 +13,18 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 
 #### QE3 : Avez-vous de l'expérience de l’élaboration et de la révision de documents professionnels, comme des notes d’information, des produits de communication, des rapports, des exposés ou des procédures ?
 
+>[!WARNING]
+>**Les questions suivantes (QE4 & QE5) doivent être remplies pour que votre candidature soit prise en considération dans le cadre du volet 1 - Agent(e), Procédure du tribunal**
 
+#### QE4 : Avez-vous de l'expérience de l’interprétation et de l’application de la Loi sur l’immigration et la protection des réfugiés et de son cadre réglementaire (par exemple, les instruments de la Commission de l’immigration et du statut de réfugié du Canada ou des cadres législatifs et réglementaires similaires) ?
+
+
+#### QE5 : Avez-vous de l'expérience de la consultation de clients ou d’intervenants en vue de parvenir à une entente sur des processus, des procédures ou des pratiques ?
+
+>[!WARNING]
+>**La question suivante (QE6) doit être remplie pour que votre candidature soit prise en considération dans le cadre du volet 2 - Analyste de la gestion opérationnelle (avec supervision).**
+
+#### QE6: Avez-vous de l'expérience de coordination de processus administratifs ou opérationnels, tel que l’application de politiques, de directives ou d’exigences opérationnelles ?
 
 ---
 
