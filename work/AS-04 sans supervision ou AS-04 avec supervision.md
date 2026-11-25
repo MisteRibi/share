@@ -64,6 +64,10 @@ De plus, avant et après cette période nous avons eu plusieurs changements dans
 >[!NOTE]Définition 
 >_\*Un contexte complexe est défini comme un environnement faisant intervenir de multiples intervenants et recoupant des exigences opérationnelles, politiques ou réglementaires, nécessitant une analyse, une coordination et l’équilibre entre des priorités concurrentes._
 
+Du 6 octobre 2025 au 5 février 2026, j'occupais un poste temporaire intérimaire d'agent de soutien aux opérations (AS-02) au sein de la Commission de l'immigration et du statut de réfugié du Canada.
+Durant ce temps nous avons lu le Chapitre 2 du Manuel de gestion de cas (MGC) en cours d'élaboration de la Direction des services de soutien au tribunal (DSST) afin de créer un powerpoint et en faire une formation puisque les procédures étaient en changements.
+Nous avons besoin, à plusieurs reprises, de remonter des corrections à DSST afin que les procédures soient bien écrites qui prenaient beaucoup de temps puisqu'elles devaient être prises en considération par plusieurs personnes.
+
 ---
 >[!WARNING]
 >**Les questions qualifications constituant un atout (QA6 & QA7) sont pour le volet 2 - Analyste de la gestion opérationnelle (avec supervision).**
