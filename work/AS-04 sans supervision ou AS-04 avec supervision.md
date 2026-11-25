@@ -42,7 +42,7 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 
 #### QA5 : Avez-vous de l'expérience de l’élaboration ou de la révision de processus opérationnels dans un contexte complexe* ?
 >[!NOTE]Définition 
->_*Un contexte complexe est défini comme un environnement faisant intervenir de multiples intervenants et recoupant des exigences opérationnelles, politiques ou réglementaires, nécessitant une analyse, une coordination et l’équilibre entre des priorités concurrentes._
+>_\*Un contexte complexe est défini comme un environnement faisant intervenir de multiples intervenants et recoupant des exigences opérationnelles, politiques ou réglementaires, nécessitant une analyse, une coordination et l’équilibre entre des priorités concurrentes._
 
 
 ---
