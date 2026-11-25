@@ -53,7 +53,10 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 #### QA6 : Avez-vous de l'expérience dans le domaine du soutien administratif lié aux analyses financières, tel que les prévisions, l’élaboration de scénarios ou l’analyse des écarts ?
 
 ---
+#### QA7 : Avez-vous de l'expérience du soutien à la dotation et à d’autres activités liées aux ressources humaines pour le compte de la direction ?
 
+---
+OLDDDDD
 1. Avez-vous de l'expérience de la prestation de conseils ou de recommandations aux clients internes et externes à une organisation?
 Lors de mon ancien emploi chez Réno-Dépôt/Rona/Lowes de 2020 à juin 2022, j'occupais le poste d'associé marchandisage magasin dans lequel je répondais aux questions des clients et je donnais des conseils aux entrepreneurs et aux particuliers pour, entre autre, l'achats de matériaux de constructions pour leurs travails ou projets.  
 Cela m’était facile de les conseillers ayant eu une formation et de l’expérience en ébénisterie.
