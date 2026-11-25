@@ -37,6 +37,14 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 
 #### QA4 : Avez-vous de l'expérience dans l’application des pratiques de la gestion de projet. (P. ex., planification, coordination ou suivi des activités de projet) ?
 
+>[!WARNING]
+>**La question qualification constituant un atout (QA5) est pour le volet 1 - Agent(e), Procédure du tribunal.**
+
+#### QA5 : Avez-vous de l'expérience de l’élaboration ou de la révision de processus opérationnels dans un contexte complexe* ?
+>[!NOTE]Définition 
+>_*Un contexte complexe est défini comme un environnement faisant intervenir de multiples intervenants et recoupant des exigences opérationnelles, politiques ou réglementaires, nécessitant une analyse, une coordination et l’équilibre entre des priorités concurrentes._
+
+
 ---
 
 1. Avez-vous de l'expérience de la prestation de conseils ou de recommandations aux clients internes et externes à une organisation?
