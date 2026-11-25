@@ -6,9 +6,12 @@ J’ai obtenu en 2010 mon Diplôme d’Étude Secondaire de l’école Chomedey 
 De plus, j'ai récemment suivi un cours de Web et Base de données au Collège Georges-Vanier auquel j'ai obtenu mon Attestation d'Étude Collégiale en Septembre 2023.
 ### Qualifications essentielles
 #### QE1 : Avez-vous de l'expérience de la collecte et de l’analyse de renseignements qualitatifs ou quantitatifs, tel que l’interprétation des écarts, des tendances ou des risques, afin d’élaborer des constatations, des recommandations ou des procédures ?
+**Non**
 
 ---
 #### QE2 : Avez-vous de l'expérience de la participation à des activités de planification (telles que la planification des activités, des opérations, des ressources humaines, des projets ou des ressources financières) et à des activités de coordination (telles que la participation à des projets, à des comités, à des groupes de travail ou à des initiatives d’équipe) ?
+J'ai participé à un groupe de projet pour tester un nouvel environnement qui générerais des lettres pré-remplis selon les informations des dossiers des demandeurs afin de faciliter la tâche aux agents.
+On devait, en plus de faire des tests régulièrement, lire et tester au maximum les mises à jour dans l'environnement de test pour être certains que les nouveautés fonctionnent comme il se doit avant qu'elles soient déployées à tout le monde.
 
 ---
 #### QE3 : Avez-vous de l'expérience de l’élaboration et de la révision de documents professionnels, comme des notes d’information, des produits de communication, des rapports, des exposés ou des procédures ?
@@ -23,7 +26,7 @@ Nous avons besoin, à plusieurs reprises, de remonter des corrections à DSST af
 
 #### QE4 : Avez-vous de l'expérience de l’interprétation et de l’application de la Loi sur l’immigration et la protection des réfugiés et de son cadre réglementaire (par exemple, les instruments de la Commission de l’immigration et du statut de réfugié du Canada ou des cadres législatifs et réglementaires similaires) ?
 
-
+---
 #### QE5 : Avez-vous de l'expérience de la consultation de clients ou d’intervenants en vue de parvenir à une entente sur des processus, des procédures ou des pratiques ?
 **NON**
 
@@ -32,8 +35,8 @@ Nous avons besoin, à plusieurs reprises, de remonter des corrections à DSST af
 >**La question suivante (QE6) doit être remplie pour que votre candidature soit prise en considération dans le cadre du volet 2 - Analyste de la gestion opérationnelle (avec supervision).**
 
 #### QE6: Avez-vous de l'expérience de coordination de processus administratifs ou opérationnels, tel que l’application de politiques, de directives ou d’exigences opérationnelles ?
+**Non**
 
----
 ### ## Qualifications constituant un atout
 #### QA1 : Avez-vous de l'expérience dans l'animation de formations et de coaching ou mentorat visant à favoriser le développement des apprenants ?
 Lors de mon ancien emploi chez Réno-Dépôt/Rona/Lowes de 2020 à juin 2022, j'occupais le poste d'associé marchandisage magasin dans lequel je devais former les nouveaux collègues de travail dans plusieurs aspects tel que l'installation de démonstrateurs, le nettoyage des baies de vente et l'utlisation du téléphone de travail afin de d'assigner les produits aux baies de vente (pour les retrouver plus facilement) et imprimer les étiquettes.
