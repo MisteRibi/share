@@ -26,6 +26,17 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 
 #### QE6: Avez-vous de l'expérience de coordination de processus administratifs ou opérationnels, tel que l’application de politiques, de directives ou d’exigences opérationnelles ?
 
+### ## Qualifications constituant un atout
+
+#### QA1 : Avez-vous de l'expérience dans l'animation de formations et de coaching ou mentorat visant à favoriser le développement des apprenants ?
+
+
+####  QA2 : Avez-vous de l'expérience dans l’utilisation d’Excel (ou d’un logiciel de tableur équivalent) ou de Power BI pour transformer des données, créer des visualisations de données (p. ex. tableaux de bord, graphiques et rapports) et présenter des renseignements fondés sur des données à l’appui des exigences opérationnelles ou de la prise de décisions ?
+
+#### QA3 : Avez-vous de l'expérience dans le domaine de l’amélioration continue ou de la gestion du changement, y compris la participation à des initiatives visant à améliorer les processus ou les pratiques opérationnelles ?
+
+#### QA4 : Avez-vous de l'expérience dans l’application des pratiques de la gestion de projet. (P. ex., planification, coordination ou suivi des activités de projet) ?
+
 ---
 
 1. Avez-vous de l'expérience de la prestation de conseils ou de recommandations aux clients internes et externes à une organisation?
