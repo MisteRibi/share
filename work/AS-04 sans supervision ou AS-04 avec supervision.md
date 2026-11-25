@@ -7,12 +7,13 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 ### Qualifications essentielles
 #### QE1 : Avez-vous de l'expérience de la collecte et de l’analyse de renseignements qualitatifs ou quantitatifs, tel que l’interprétation des écarts, des tendances ou des risques, afin d’élaborer des constatations, des recommandations ou des procédures ?
 
-
+---
 #### QE2 : Avez-vous de l'expérience de la participation à des activités de planification (telles que la planification des activités, des opérations, des ressources humaines, des projets ou des ressources financières) et à des activités de coordination (telles que la participation à des projets, à des comités, à des groupes de travail ou à des initiatives d’équipe) ?
 
-
+---
 #### QE3 : Avez-vous de l'expérience de l’élaboration et de la révision de documents professionnels, comme des notes d’information, des produits de communication, des rapports, des exposés ou des procédures ?
 
+---
 >[!WARNING]
 >**Les questions suivantes (QE4 & QE5) doivent être remplies pour que votre candidature soit prise en considération dans le cadre du volet 1 - Agent(e), Procédure du tribunal**
 
