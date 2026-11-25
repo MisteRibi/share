@@ -26,8 +26,9 @@ Nous avons besoin, à plusieurs reprises, de remonter des corrections à DSST af
 >**Les questions suivantes (QE4 & QE5) doivent être remplies pour que votre candidature soit prise en considération dans le cadre du volet 1 - Agent(e), Procédure du tribunal**
 
 #### QE4 : Avez-vous de l'expérience de l’interprétation et de l’application de la Loi sur l’immigration et la protection des réfugiés et de son cadre réglementaire (par exemple, les instruments de la Commission de l’immigration et du statut de réfugié du Canada ou des cadres législatifs et réglementaires similaires) ?
-En plus de la réponse à la question QE3, en tout cas je dois interpréter et appliquer les procédures afin de respecter la loi.
-Je prend le temps de vérifier la loi sur le site officiel afin de mieux la comprendre et ainsi mieux appliquer les procédures.
+Depuis février 2023, j’occupe le poste d’agent de gestion de cas (PM-01) au sein de la **Commission de l’immigration et du statut de réfugié du Canada**.
+Dans l'exercice de mes fonctions je dois lire et comprendre les procédures qui sont écrites en suivant la loi.
+Je prends aussi le temps de lire certains points de la loi directement afin de mieux la comprendre et ainsi mieux appliquer les procédures.
 
 ---
 #### QE5 : Avez-vous de l'expérience de la consultation de clients ou d’intervenants en vue de parvenir à une entente sur des processus, des procédures ou des pratiques ?
