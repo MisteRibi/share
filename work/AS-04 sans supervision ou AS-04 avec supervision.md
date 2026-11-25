@@ -55,8 +55,8 @@ De plus, avant et après cette période nous avons eu plusieurs changements dans
 
 ---
 #### QA4 : Avez-vous de l'expérience dans l’application des pratiques de la gestion de projet. (P. ex., planification, coordination ou suivi des activités de projet) ?
+**Non**
 
----
 >[!WARNING]
 >**La question qualification constituant un atout (QA5) est pour le volet 1 - Agent(e), Procédure du tribunal.**
 
