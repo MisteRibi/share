@@ -47,7 +47,7 @@ Lors de mon ancien emploi chez Réno-Dépôt/Rona/Lowes de 2020 à juin 2022, j'
 
 Du 6 octobre 2025 au 5 février 2026, j'occupais un poste temporaire intérimaire d'agent de soutien aux opérations (AS-02) au sein de la Commission de l'immigration et du statut de réfugié du Canada.
 Durant ce temps nous avons lu le Chapitre 2 du Manuel de gestion de cas (MGC) en cours d'élaboration de la Direction des services de soutien au tribunal (DSST) afin de créer un powerpoint et en faire une formation puisque les procédures étaient en changements.
-La formation était en Français mais nous avons acceptés les questions en Anglais des apprenants auquel cas nous y avons répondus dans les deux langues.
+La formation était en Français mais nous avons accepté les questions en Anglais des apprenants auquel cas nous y avons répondu dans les deux langues.
 
 ---
 ####  QA2 : Avez-vous de l'expérience dans l’utilisation d’Excel (ou d’un logiciel de tableur équivalent) ou de Power BI pour transformer des données, créer des visualisations de données (p. ex. tableaux de bord, graphiques et rapports) et présenter des renseignements fondés sur des données à l’appui des exigences opérationnelles ou de la prise de décisions ?
