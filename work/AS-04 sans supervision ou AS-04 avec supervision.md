@@ -15,7 +15,7 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 
 Du 6 octobre 2025 au 5 février 2026, j'occupais un poste temporaire intérimaire d'agent de soutien aux opérations (AS-02) au sein de la Commission de l'immigration et du statut de réfugié du Canada.
 Durant ce temps nous avons lu le Chapitre 2 du Manuel de gestion de cas (MGC) en cours d'élaboration de la Direction des services de soutien au tribunal (DSST) afin de créer un powerpoint et en faire une formation puisque les procédures étaient en changements.
-Nosu avons besoin, à plusieurs reprises, de remonter des corrections à DSST afin que les procédures soient bien écrites.
+Nous avons besoin, à plusieurs reprises, de remonter des corrections à DSST afin que les procédures soient bien écrites.
 
 ---
 >[!WARNING]
@@ -25,7 +25,9 @@ Nosu avons besoin, à plusieurs reprises, de remonter des corrections à DSST af
 
 
 #### QE5 : Avez-vous de l'expérience de la consultation de clients ou d’intervenants en vue de parvenir à une entente sur des processus, des procédures ou des pratiques ?
+**NON**
 
+---
 >[!WARNING]
 >**La question suivante (QE6) doit être remplie pour que votre candidature soit prise en considération dans le cadre du volet 2 - Analyste de la gestion opérationnelle (avec supervision).**
 
