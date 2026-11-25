@@ -72,6 +72,7 @@ Nous avons besoin, à plusieurs reprises, de remonter des corrections à DSST af
 >[!WARNING]
 >**Les questions qualifications constituant un atout (QA6 & QA7) sont pour le volet 2 - Analyste de la gestion opérationnelle (avec supervision).**
 #### QA6 : Avez-vous de l'expérience dans le domaine du soutien administratif lié aux analyses financières, tel que les prévisions, l’élaboration de scénarios ou l’analyse des écarts ?
+**Non**
 
----
 #### QA7 : Avez-vous de l'expérience du soutien à la dotation et à d’autres activités liées aux ressources humaines pour le compte de la direction ?
+**Non**
