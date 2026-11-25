@@ -1,9 +1,17 @@
-# Agent des actifs - AS-02
+# # Agent(e), Procédure du tribunal (AS-04 sans supervision) ou Analyste de la gestion opérationnelle (AS-04 avec supervision)
 ## Questions de présélection 
-### 1. Avez-vous un diplôme d’études secondaires ou un agencement acceptable d’études, de formation et (ou) d’expérience?
+### Études
+#### Avez-vous un diplôme d’études secondaires ou un agencement acceptable d’études, de formation et (ou) d’expérience?
 J’ai obtenu en 2010 mon Diplôme d’Étude Secondaire de l’école Chomedey de Maisonneuve.  
 De plus, j'ai récemment suivi un cours de Web et Base de données au Collège Georges-Vanier auquel j'ai obtenu mon Attestation d'Étude Collégiale en Septembre 2023.
-### 2. Avez-vous de l'expérience de la prestation de conseils ou de recommandations aux clients internes et externes à une organisation?
+### Qualifications essentielles
+#### QE1 : Avez-vous de l'expérience de la collecte et de l’analyse de renseignements qualitatifs ou quantitatifs, tel que l’interprétation des écarts, des tendances ou des risques, afin d’élaborer des constatations, des recommandations ou des procédures ?
+
+
+
+---
+
+1. Avez-vous de l'expérience de la prestation de conseils ou de recommandations aux clients internes et externes à une organisation?
 Lors de mon ancien emploi chez Réno-Dépôt/Rona/Lowes de 2020 à juin 2022, j'occupais le poste d'associé marchandisage magasin dans lequel je répondais aux questions des clients et je donnais des conseils aux entrepreneurs et aux particuliers pour, entre autre, l'achats de matériaux de constructions pour leurs travails ou projets.  
 Cela m’était facile de les conseillers ayant eu une formation et de l’expérience en ébénisterie.
 ### 3. Avez-vous de l'expérience de la coordination de la prestation de services centralisés au sein d’une équipe dans un environnement opérationnel (p. ex., gestion des biens, gestion des contrats, etc.)?
