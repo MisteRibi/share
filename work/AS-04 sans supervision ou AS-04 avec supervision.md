@@ -13,6 +13,10 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 ---
 #### QE3 : Avez-vous de l'expérience de l’élaboration et de la révision de documents professionnels, comme des notes d’information, des produits de communication, des rapports, des exposés ou des procédures ?
 
+Du 6 octobre 2025 au 5 février 2026, j'occupais un poste temporaire intérimaire d'agent de soutien aux opérations  (AS-02) au sein de la Commission de l'immigration et du statut de réfugié du Canada.
+Durant ce temps nous avons lu le Chapitre 2 du Manuel de gestion de cas (MGC) en cours d'élaboration de la Direction des services de soutien au tribunal (DSST) afin de créer un powerpoint et en faire une formation puisque les procédures étaient en changements.
+Nosu avons besoin, à plusieurs reprises, de remonter des corrections à DSST afin que les procédures soient bien écrites.
+
 ---
 >[!WARNING]
 >**Les questions suivantes (QE4 & QE5) doivent être remplies pour que votre candidature soit prise en considération dans le cadre du volet 1 - Agent(e), Procédure du tribunal**
