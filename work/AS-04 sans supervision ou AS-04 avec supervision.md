@@ -47,6 +47,11 @@ La formation était en Français mais nous avons acceptés les questions en Angl
 
 ---
 #### QA3 : Avez-vous de l'expérience dans le domaine de l’amélioration continue ou de la gestion du changement, y compris la participation à des initiatives visant à améliorer les processus ou les pratiques opérationnelles ?
+Du 6 octobre 2025 au 5 février 2026, j'occupais un poste temporaire intérimaire d'agent de soutien aux opérations (AS-02) au sein de la Commission de l'immigration et du statut de réfugié du Canada.
+Durant ce temps nous avons, entre autre, lu le Chapitre 2 du Manuel de gestion de cas (MGC) en cours d'élaboration de la Direction des services de soutien au tribunal (DSST) puisque les procédures étaient en changements.
+De plus, avant et après cette période nous avons eu plusieurs changements dans les procédures auquel cas nous avons dû s'adapter et j'étais toujours présent pour répondre aux questions de mes collègues et les aider aux changements.
+À plusieurs reprises je remonte mes retours et suggestions à propos soit pour que ça soit plus simple pour tout le monde ou parce que les conseils ou les demandeurs ont de la difficulté à comprendre eux-mêmes les procédures.
+
 
 ---
 #### QA4 : Avez-vous de l'expérience dans l’application des pratiques de la gestion de projet. (P. ex., planification, coordination ou suivi des activités de projet) ?
