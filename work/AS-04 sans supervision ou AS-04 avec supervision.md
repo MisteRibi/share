@@ -10,8 +10,9 @@ De plus, j'ai récemment suivi un cours de Web et Base de données au Collège G
 
 ---
 #### QE2 : Avez-vous de l'expérience de la participation à des activités de planification (telles que la planification des activités, des opérations, des ressources humaines, des projets ou des ressources financières) et à des activités de coordination (telles que la participation à des projets, à des comités, à des groupes de travail ou à des initiatives d’équipe) ?
-J'ai participé à un groupe de projet pour tester un nouvel environnement qui générerais des lettres pré-remplis selon les informations des dossiers des demandeurs afin de faciliter la tâche aux agents.
+Le 25 octobre 2025, j'ai participé à un groupe de projet pour tester un nouvel environnement qui générerais des lettres pré-remplis selon les informations des dossiers des demandeurs afin de faciliter la tâche aux agents.
 On devait, en plus de faire des tests régulièrement, lire et tester au maximum les mises à jour dans l'environnement de test pour être certains que les nouveautés fonctionnent comme il se doit avant qu'elles soient déployées à tout le monde.
+Encore aujourd'hui il peut y avoir quelques tests à effectuer.
 
 ---
 #### QE3 : Avez-vous de l'expérience de l’élaboration et de la révision de documents professionnels, comme des notes d’information, des produits de communication, des rapports, des exposés ou des procédures ?
